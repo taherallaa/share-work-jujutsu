@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World")
 	fmt.Println(add(1, 2))
+	foo()
 }
 
 func add(x, y int) int {
