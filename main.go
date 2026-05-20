@@ -27,3 +27,7 @@ func multiple(x, y int) int {
 func foo() {
 	fmt.Println("foo function")
 }
+
+func bar() {
+	fmt.Println("bar function")
+}
