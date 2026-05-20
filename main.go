@@ -24,10 +24,6 @@ func multiple(x, y int) int {
 	return x * y
 }
 
-func foo() {
-	fmt.Println("foo function")
-}
-
 func bar() {
 	fmt.Println("bar function")
 }
